@@ -1,7 +1,7 @@
 name: SWGOH Gamedata
 
 on:
-  workflow_dispatch:  # Tous les lundis à 6h
+  workflow_dispatch:
 
 jobs:
   generate:

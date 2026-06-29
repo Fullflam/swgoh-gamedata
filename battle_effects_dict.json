@@ -3729,5 +3729,12 @@
     "desc_en": "The Mandalorian (Beskar Armor) deals dramatically increased damage to enemies with this effect",
     "desc_fr": "Le Mandalorien (armure en beskar) inflige des dégâts considérablement augmentés aux ennemis qui subissent cet effet",
     "internal_key": "Yourenext"
+  },
+  "will inflict evasion down on the enemy next counterattack": {
+    "name_en": "Will inflict Evasion Down on the enemy next counterattack",
+    "name_fr": "Infligera un malus d'esquive à l'ennemi lors de la prochaine contre-attaque.",
+    "desc_en": "Will inflict Evasion Down on the enemy next counterattack",
+    "desc_fr": "Infligera un malus d'esquive à l'ennemi lors de la prochaine contre-attaque.",
+    "internal_key": "AllyWillInflictEvasionDown_V2"
   }
 }
